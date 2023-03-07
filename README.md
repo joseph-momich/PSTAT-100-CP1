@@ -6,5 +6,5 @@ Attempted to clean the data. 'Tidy-Data' is the file where raw data is imported 
 ## V3: Version 3
 Added Background Information describing source/data collection/etc. on Part 1 of the project.
 ## V4:
-Deleted a few more columns from the original data set that were missing most of the time and were just comparison statistics.
+Deleted a few more columns from the original data set that were missing most of the time and were just comparison statistics (in data_mod6 on tidy-data.pynb).
 Added variable descriptions to Part 1 and organized the description into paragraph format.
