@@ -1,10 +1,10 @@
 # PSTAT-100-CP1
 
-## V1: Version 1 
-## V2: Version 2 
-Attempted to clean the data. 'Tidy-Data' is the file where raw data is imported and cleaned. The data was imported as a .csv file, not an Excel one. I just downloaded the original Excel file as a .csv, since it was easier to work with. The final data set was then exported as a '.csv' file and used in the project-plan-report.pynb
-## V3: Version 3
-Added Background Information describing source/data collection/etc. on Part 1 of the project.
-## V4: Version 4 (Please edit this one)
-Deleted a few more columns from the original data set that were missing most of the time and were just comparison statistics (in data_mod6 on tidy-data.pynb).
-Added variable descriptions to Part 1 and organized the description into paragraph format.
+## Part 1 
+Please use "vF" for Part 2 of the final project
+
+## Data Description Links
+
+https://www.cdph.ca.gov/Programs/OHE/CDPH%20Document%20Library/HCI/ADA%20Compliant%20Documents/The%20Healthy%20Communities%20Data%20and%20Indicators%20Project%20ToolKit%20for%20Website%20ADA%20Compliant.pdf
+
+https://www.cdph.ca.gov/Programs/OHE/CDPH%20Document%20Library/HCI_TechnicalManual_10-23-14.pdf
