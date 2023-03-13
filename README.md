@@ -1,7 +1,7 @@
 # PSTAT-100-CP1
 
 ## Part 1 
-Please refer to the "PSTAT-100-CP2" repository for Part 2 of the project
+Please refer to the "PSTAT-100-CP2" repository for the next part of the project
 
 ## Data Description Links
 
