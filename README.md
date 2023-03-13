@@ -1,6 +1,9 @@
 # PSTAT-100-CP1
 
 ## Part 1 
+Completed and submitted on Gradescope
+
+## Next steps
 Please refer to the "PSTAT-100-CP2" repository for the next part of the project
 
 ## Data Description Links
